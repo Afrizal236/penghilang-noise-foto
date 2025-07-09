@@ -121,7 +121,7 @@ Aplikasi web canggih untuk menghilangkan noise dari gambar menggunakan berbagai 
 
 1. Clone repository:
 ```bash
-git clone https://github.com/username/penghilang-noise-gambar-pro.git
+git clone [https://github.com/username/penghilang-noise-gambar-pro.git](https://github.com/Afrizal236/penghilang-noise-foto.git)
 ```
 
 2. Buka file `index.html` di browser modern
@@ -139,6 +139,7 @@ Kontribusi sangat diterima! Silakan:
 5. Buka Pull Request
 
 ## 📧 Kontak
+ramydiaman@gmail.com
 
 Jika ada pertanyaan atau saran, jangan ragu untuk membuka issue di repository ini.
 
