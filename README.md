@@ -1,5 +1,10 @@
 # 🖼️ Penghilang Noise Gambar Pro
 
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 Aplikasi web canggih untuk menghilangkan noise dari gambar menggunakan berbagai algoritma pemrosesan gambar yang sophisticated. Aplikasi ini memiliki antarmuka yang modern dan user-friendly dengan fitur drag-and-drop yang mudah digunakan.
 
 ## ✨ Fitur Utama
